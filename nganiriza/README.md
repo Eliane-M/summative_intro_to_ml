@@ -73,4 +73,4 @@ Though the neural network may have benefited from the regularization techniques 
 
 ## Video
 
-[video presentation]('https://drive.google.com/file/d/1SpVXw11w0jNoLHsmoM__SueiRbY80ZyK/view?usp=sharing')
+[video presentation](https://drive.google.com/file/d/1SpVXw11w0jNoLHsmoM__SueiRbY80ZyK/view?usp=sharing)
