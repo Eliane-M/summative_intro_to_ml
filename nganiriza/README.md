@@ -44,7 +44,7 @@ source venv/Scripts/activate
 install dependencies
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Then open the notebook and run the best saved model following the code below
